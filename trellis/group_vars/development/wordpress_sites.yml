@@ -1,0 +1,17 @@
+# Created by trellis-cli v1.17.0
+# Documentation: https://roots.io/trellis/docs/wordpress-sites/
+
+wordpress_sites:
+  project-angel:
+    site_hosts:
+    - canonical: project-angel.lndo.test
+      redirects: []
+    local_path: ../site
+    admin_email: admin@project-angel.lndo.test
+    multisite:
+      enabled: false
+    ssl:
+      enabled: false
+      provider: self-signed
+    cache:
+      enabled: false
