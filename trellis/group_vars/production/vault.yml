@@ -7,7 +7,7 @@ vault_users:
   password: VoFbyB3I2KvEwYZpgS6PreYrXdgCA9yYTlpuNR45dmvbZKrOTjcwCrnh3fafY4Bi
   salt: gyPomhwjsXwDFczokiYWrzTLvV29yNlXqSF2xiCNx76I3fyFs8BaOFOlBXK9mnFj
 vault_wordpress_sites:
-  project-angel:
+  roots-template:
     admin_password: aHdAaofoY4AdvBsCYqWwSciMFv9JsKf3PtNhJDBHnOU5gQjsdaMJ2TuiiyXeGjhy
     env:
       db_password: GSjdDoh41d2Bi9acgbmxxO1jBGKwZlDeVgisK8dYQ9ePYv7eMFG5eNvUIo1ZNIrj

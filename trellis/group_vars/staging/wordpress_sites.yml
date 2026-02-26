@@ -2,9 +2,9 @@
 # Documentation: https://roots.io/trellis/docs/wordpress-sites/
 
 wordpress_sites:
-  project-angel:
+  roots-template:
     site_hosts:
-    - canonical: project-angel.lndo.site
+    - canonical: roots-template.lndo.site
       redirects: []
     local_path: ../site
     branch: master

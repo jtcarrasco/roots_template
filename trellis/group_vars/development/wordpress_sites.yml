@@ -2,12 +2,12 @@
 # Documentation: https://roots.io/trellis/docs/wordpress-sites/
 
 wordpress_sites:
-  project-angel:
+  roots-template:
     site_hosts:
-    - canonical: project-angel.lndo.test
+    - canonical: roots-template.lndo.test
       redirects: []
     local_path: ../site
-    admin_email: admin@project-angel.lndo.test
+    admin_email: admin@roots-template.lndo.test
     multisite:
       enabled: false
     ssl:

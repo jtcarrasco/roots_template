@@ -3,7 +3,7 @@
 
 vault_mysql_root_password: N2r05gZ0mESuJa6mOfY103sGSMMKKKxQ0fS8VDQUf0LXihtcAPtqIqNYHaX3n0mO
 vault_wordpress_sites:
-  project-angel:
+  roots-template:
     admin_password: D8bozYCRLHRkZRgfMhbJwUY3sqAqC3dFh0EgbUSAwUJFgUZey0bbwH2Ltqo9luOh
     env:
       db_password: G4c802wO2nafoGCZXbg50HXcsmFP1o0PctKxNq50NtfP7NNqwWnbdVzUnNMdKxrb
