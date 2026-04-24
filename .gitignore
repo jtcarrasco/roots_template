@@ -8,5 +8,12 @@ Thumbs.db
 *.swp
 *.swo
 
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Playwright MCP
+.playwright-mcp/
+
 # Lando local overrides
 .lando.local.yml
